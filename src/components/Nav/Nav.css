@@ -1,0 +1,10 @@
+.Nav {
+    background-color: #212329;
+    color: white;
+    height: 8%;
+    display: grid;
+    place-items: center;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
